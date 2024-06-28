@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Api intro, Migrations, Crud\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{838455F5-3A5C-4521-9B26-0A73B9F0AA55}|Api-Intro\\Api-Intro.csproj|c:\\users\\agshin\\desktop\\fullstackdeveloper\\backend\\asp.net\\api intro, migrations, crud\\practice\\api-intro\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838455F5-3A5C-4521-9B26-0A73B9F0AA55}|Api-Intro\\Api-Intro.csproj|solutionrelative:api-intro\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Api intro, Migrations, Crud\\Practice\\Api-Intro\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Api-Intro\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Api intro, Migrations, Crud\\Practice\\Api-Intro\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Api-Intro\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:27:32.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
